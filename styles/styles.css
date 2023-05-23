@@ -767,8 +767,8 @@ h5{
 @media screen and (max-width: 600px){
 	/*About section*/
 	.h-shape{
-		min-height: 60vh !important;
-		min-width: 60vh !important;
+		min-height: 50vh !important;
+		min-width: 50vh !important;
 		background-color: transparent;
 		position: relative;
 	}
