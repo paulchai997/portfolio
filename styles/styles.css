@@ -719,8 +719,8 @@ h5{
 /*Media queries*/
 @media screen and (max-width: 400px){
 	.h-shape{
-		min-height: 40vh !important;
-		min-width: 40vh !important;
+		min-height: 40vh;
+		min-width: 40vh;
 		background-color: transparent;
 		position: relative;
 	}
